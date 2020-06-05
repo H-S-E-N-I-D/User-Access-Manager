@@ -39,7 +39,8 @@ Please follow below installation steps
 ```
 
 
-##APIs
+## APIs
+
 Rest API to insert user access for a given user in USERACCESS table.
 
 ```
@@ -111,5 +112,3 @@ validate duplicate user accesses
 
 ## Acknowledgments
 
-# User-Access-Manager
-# User-Access-Manager
